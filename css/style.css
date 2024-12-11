@@ -11,6 +11,27 @@ body {
   padding-bottom: 90px;
 }
 
+.blog-header {
+  background-color: #f8f9fa;
+  padding: 3rem 0;
+  text-align: center;
+}
+.blog-post-preview {
+  margin-bottom: 2rem;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 1.5rem;
+}
+.blog-post-preview img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+.sidebar {
+  background-color: #f1f3f5;
+  padding: 1.5rem;
+  border-radius: 8px;
+}
+
 .layout_padding2 {
   padding-top: 45px;
   padding-bottom: 45px;
